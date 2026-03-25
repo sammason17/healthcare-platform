@@ -1,0 +1,7 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+health_app.db
+.env
